@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+*{
+    margin: 0px;
+    padding:0px;
+    font-family: roboto slab;
+}
+.container{
+    height:2685px;
+    width:100%;
+    background:rgba(0,0,0,0.7) url("img/5.jpg")
+}
+.topimage{
+    background: rgba(0,0,0,0.7) url("img/main.jpg");
+    height: 710px;
+    width:100%;
+    background-size: cover;
+    border: solid white 1px;
+    text-align: center;
+}
+.topimage p1{
+    color: white;
+    font-size: 180px;
+}
+.topimage p2{
+    color:white;
+    font-size: 30px;
+}
+.tab{
+    border-radius: 20px;
+    margin-top: 50px;
+    width: 85%;
+    height: 520px;
+    border: ridge blue 10px;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+#tab1{
+    background: rgba(0,0,0,0.7) url("img/wormholes.jpg");
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    margin-left:31px;
+    background-size: cover;
+    transition: 0.3s;
+}
+    
+#tab1:hover{
+    background: rgba(0,0,0,0.3) url("img/wormholes.jpg");
+    transform: translateY(-10px);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tab2{
+    background: rgba(0,0,0,0.7) url("img/blackhole.png");
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    background-size: cover;
+    transition: 0.3s;
+    margin-left:150px;  
+
+}
+#tab2:hover{
+    
+    background: rgba(0,0,0,0.3) url("img/blackhole.png");
+    transform: translateY(-10px);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tab3{
+    background: rgba(0,0,0,0.7) url("img/neutronstars.png");
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    background-size: cover;
+    transition: 0.3s;
+    margin-left:31px
+    
+}
+#tab3:hover{
+    
+    background: rgba(0,0,0,0.3) url("img/neutronstars.png");
+    transform: translateY(-10px);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tab p1{
+    font-size: 90px;
+    color: white;
+
+}
+.tab p2{
+    font-size: 30px;
+    color: seashell;
+    font-weight: 200px;
+}
+.tab a{
+    text-decoration: none;
+    color: seashell;
+    font-family: roboto slab;
+    font-size: 30px;
+}
+.home{
+    padding: 10px;
+    font-size: 20px;
+    background-color: 
+    color: white;
+    border: none;
+    border-radius: 10px;
+    transition: 0.1s;
+}
+.home:hover{
+    background-color: transparent;
+    border:solid black 1px;
+    color:black;
+}
