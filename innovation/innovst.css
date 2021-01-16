@@ -57,6 +57,8 @@ body {
     position: relative;
     top: -43vh;
     left: 3vw;
+    cursor: pointer;
+    transition: 0.5s;
   
 }
 
@@ -75,5 +77,19 @@ body {
     left: 1vw;
     text-align: justify;
     color: rgb(221, 170, 39);
-    
+    transition: 0.5s;
+
+}
+
+.b1:hover{
+    box-shadow:0 0 20px goldenrod;
+    transform: translateY(0.5px)
+
+}
+.dv:hover{
+      box-shadow: 20px white;
+      background-color: goldenrod;
+      padding: 11px;
+      color: black;
+      border-radius: 7%;
 }
