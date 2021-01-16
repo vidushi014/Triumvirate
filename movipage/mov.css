@@ -18,5 +18,27 @@ body {
     text-align: center;
 }
 .p3 {
+    padding: 10px 10px 0 10px;
     color: wheat;
+    text-align: justify;
+}
+.c {
+    display: flex;
+    flex-direction: row;
+    border: 2px solid wheat;
+    height: 30vh;
+    width: 40vw;
+    margin: 0 5vw 0 6vw;
+}
+.img {
+    height: 30vh;
+    width: 30vw;
+    border: 2px solid white;
+}
+.inl {
+    display: flex;
+    flex-direction: row;
+    height: 30vh;
+    width: 80vh;
+
 }
