@@ -34,6 +34,9 @@ body {
     height: 30vh;
     width: 30vw;
     border: 2px solid white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 10px rgb(4, 184, 255);
 }
 .inl {
     display: flex;
@@ -41,4 +44,27 @@ body {
     height: 30vh;
     width: 80vh;
 
+}
+#i1 {
+    background-image: url(22.jfif);
+}
+
+#i2 {
+    background-image: url(23.jfif);
+}
+
+#i3 {
+    background-image: url(25.jfif);
+}
+
+#i4 {
+    background-image: url(31.jfif);
+}
+
+#i5 {
+    background-image: url(32.jfif);
+}
+
+#i6 {
+    background-image: url(33.jfif);
 }
