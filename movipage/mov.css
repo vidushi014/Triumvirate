@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-image: url(mbg2.jpg);
+}
+.p1 {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: white;
+}
+.p2 {
+    color: white;
+    text-align: center;
+}
+.p3 {
+    color: wheat;
+}
