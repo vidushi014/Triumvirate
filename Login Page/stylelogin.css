@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-image:url(Loginbackground.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.loginbox{
+    height: 420px;
+    width: 320px;
+    background-color: rgb(11, 12, 12);
+    margin: 10% 0 0 40%;
+    text-align: center;
+    color: rgb(209, 186, 186);
+    border-radius: 20px;
+}
+.logo{
+    border-radius: 50%;
+    margin-top: -50px;
+}
+.logbox{
+    padding-top: 10px;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 20px;
+}
+.logbox h3{
+    padding: 15px 0;
+    font-size: 20px;
+}
+.loginbox input{
+    font-size: 20px;
+    border: none;
+    background: none;
+    padding-bottom: 10px;
+    border-bottom: 1px solid white;
+    margin-bottom: 10px;
+    color: thistle;
+    outline: none;
+}
+.logbox .btn{
+    font-size: 30px;
+    padding: 0 90px;
+    border-radius: 30px;
+    background-color: rgb(84, 92, 92);
+    text-decoration: none;
+    color: rgb(7, 7, 7);
+}
+.logbox .bottom{
+    text-decoration: none;
+    color: rgb(86, 104, 104);
+    padding: 20px;
+}
+.logbox .bottom a{
+    text-decoration: none;
+    color: rgb(86, 104, 104);
+}
+.logbox .btn:hover{
+    background-color: teal;
+    box-shadow: 0 0 10px rgb(54, 153, 153);
+}
+.logbox .bottom a:hover{
+    color: teal; 
+}
