@@ -1,0 +1,20 @@
+TRIUMVIRATE
+"Lazy_Sloth_"
+Yash Bhandari
+"Vivacious_Aesthete"
+Vidushi <br> Singh
+"Experto_Crede__"
+Shivanshu Singh
+Science Technology
+"The Science of today is the technology of tomorrow"<br>-By Edward Teller
+Science Innovation
+"Innovation is the ability to see change as an opportunity , not a threat"
+Science <br> Fiction
+"Science fiction is not quirky anymore , we live in a futuristic world now"-By Bonnie Hammer
+Space <br> Science 
+"The universe is under no obligation to make no sense to you "<br>-Neil Tegrasse
+Discussion Portal
+link for font
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
+font-family: 'Roboto Slab';
