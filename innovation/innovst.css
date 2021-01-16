@@ -93,3 +93,79 @@ body {
       color: black;
       border-radius: 7%;
 }
+
+@media(max-width:550px)
+{
+    .one {
+        height:20vh;
+        width:  92.5vw;
+        background-image: url(bg1.jfif);
+        color:black ;
+        margin: 0;
+        padding: 22px;
+        background-position:center ;
+        text-align: center; 
+      
+    
+    }
+    .hed {
+        padding: 0;
+        margin: 0;
+        border: 0;
+        text-align: center;
+        font-size: 80px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-shadow:10px 10px 5px rgba(56, 52, 18, 0.699);
+        text-overflow: transparent;
+    }
+    .container {
+        background-image: url(YO\ \(2\).jpg);
+        height: 100%;
+        width: 100vw;
+        background-position: right;
+        display: flex;
+        flex-direction: column;
+        
+        
+    }
+    
+    .b{
+        position: relative;
+        left: 32vw;
+        height: 50vh;
+        width: 55vw;
+     
+    }
+    #t1 {
+        padding:0 1cm 0 0.8cm ;
+    }
+    #t2{
+        padding:0 1cm 0 1.1cm ;
+    }
+    #t3{
+        padding:0 1cm 0 1.3cm ;
+    }
+    .b1{
+        height: 36vh;
+        width: 36vw;
+        position: relative;
+        top: -44vh;
+        left: 42vw;
+        cursor: pointer;
+        transition: 0.5s;
+    }
+    
+    .dv {
+        margin: 0;
+        display: flex;
+        height: 40vh;
+        width: 41vw;
+        flex-direction: column;
+        position: relative;
+        top: -33vh;
+        left: 37vw;
+        text-align: justify;
+        color: rgb(221, 170, 39);
+        transition: 0.5s;
+    }
+}
